@@ -10,6 +10,7 @@ Source0:	http://dl.sourceforge.net/jena/Jena-%{version}.zip
 URL:		http://jade.tilab.com/
 BuildRequires:	jakarta-ant
 BuildRequires:	jdk
+BuildRequires:	unzip
 Requires:	jre
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
