@@ -8,7 +8,7 @@ Group:		Development/Languages/Java
 Source0:	http://dl.sourceforge.net/jena/Jena-%{version}.zip
 # Source0-md5:	a0f9cbcb060473cf8eb348cdf703d7d8
 URL:		http://jade.tilab.com/
-BuildRequires:	jakarta-ant
+BuildRequires:	ant
 BuildRequires:	jdk
 BuildRequires:	unzip
 Requires:	jre
