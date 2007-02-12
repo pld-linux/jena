@@ -1,5 +1,5 @@
 Summary:	A Semantic Web Framework for Java
-Summary(pl):	Szkielet semantyczny WWW dla Javy
+Summary(pl.UTF-8):   Szkielet semantyczny WWW dla Javy
 Name:		jena
 Version:	2.1
 Release:	0.1
@@ -21,11 +21,11 @@ W3C recommendations for RDF and OWL. It provides an RDF API; ARP, an
 RDF parser; RDQL, an RDF query language; an OWL API; and rule-based
 inference for RDFS and OWL.
 
-%description -l pl
-Jena to zbiór narzêdzi Javy do tworzenia aplikacji semantycznych WWW
-opartych na rekomendacjach W3C dla RDF i OWL. Udostêpnia: API RDF,
-ARP - analizator RDF, RDQL - jêzyk zapytañ RDF, API OWL oraz oparte na
-regu³ach wnioskowanie dla RDFS i OWL.
+%description -l pl.UTF-8
+Jena to zbiÃ³r narzÄ™dzi Javy do tworzenia aplikacji semantycznych WWW
+opartych na rekomendacjach W3C dla RDF i OWL. UdostÄ™pnia: API RDF,
+ARP - analizator RDF, RDQL - jÄ™zyk zapytaÅ„ RDF, API OWL oraz oparte na
+reguÅ‚ach wnioskowanie dla RDFS i OWL.
 
 # TODO:
 #%package doc
