@@ -1,5 +1,5 @@
 Summary:	A Semantic Web Framework for Java
-Summary(pl.UTF-8):   Szkielet semantyczny WWW dla Javy
+Summary(pl.UTF-8):	Szkielet semantyczny WWW dla Javy
 Name:		jena
 Version:	2.1
 Release:	0.1
